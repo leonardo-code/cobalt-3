@@ -1,0 +1,15 @@
+1	×	Oled Display 128x64 SPI 7 pins
+1	×	AAA battery holder
+1	×	led
+40	×	tactile momentary switches
+1	×	220 Ohm resistor
+1	×	1 K Ohm resistor
+1	×	33 K Ohm resistor
+1	×	AAA Li-Ion battery 3.7v 350-600 mAh
+1	×	Crystal 16.000 MHz
+2	×	22pf capacitor
+1	×	104nf capacitor
+1	×	atmega328p
+1	×	socket 28 pin narrow
+1	×	header 6 pin
+1	×	toggle switch 3 pin
