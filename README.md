@@ -11,3 +11,5 @@ I put all together in the design of a simple pcb and I used an Arduino IDE to co
 
 Project page:
 http://el9000.cc/projects
+
+Shop: https://www.tindie.com/products/el9000/cobalt-3-a-pocket-computer-diy/
